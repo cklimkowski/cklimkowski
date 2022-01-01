@@ -7,12 +7,14 @@ I provide effective solutions utilizing high- and low-level code approaches, cur
 To be continued....
 
 Fun fact:
-Cyprian in British English (ˈsɪprɪən )
+**Cyprian** in British English **(ˈsɪprɪən )**
+
 Adjective
 1. of or relating to Cyprus
 2. of or resembling the ancient orgiastic worship of Aphrodite on Cyprus
+
 Noun
-1. male name (it's me:man:)
+1. male name **(it's me:man:)**
 2. Saint. ?200–258 ad, bishop of Carthage and martyr. Feast day: Sept 26 or 16
 
 
