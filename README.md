@@ -17,16 +17,14 @@ Please feel free to contact me at cyprian.klimkowski@gmail.com.
 > Knowing is not enough, we must apply. Willing is not enough, we must do.  
 > --- Mr Bruce Lee ---
 
-Fun fact:
-**Cyprian** in British English **(ˈsɪprɪən )**
-
-Adjective
-1. of or relating to Cyprus
-2. of or resembling the ancient orgiastic worship of Aphrodite on Cyprus
-
-Noun
-1. male name **(it's me:man:)**
-2. Saint. ?200–258 ad, bishop of Carthage and martyr. Feast day: Sept 26 or 16
+Fun fact:  
+**Cyprian** in British English **(ˈsɪprɪən )**  
+Adjective  
+1. of or relating to Cyprus  
+2. of or resembling the ancient orgiastic worship of Aphrodite on Cyprus  
+Noun  
+3. male name **(it's me:man:)**  
+4. Saint. ?200–258 ad, bishop of Carthage and martyr. Feast day: Sept 26 or 16
 
 
 <!--
