@@ -8,8 +8,8 @@ My love to computers began a long long time ago ;). The first computer I had was
 Then I jumped quickly into PCs computing world with my brand new Pentium 200 MMX, which I was very proud of at that time it was a mind blowing.
 Of course a first choice of all was beloved and famous ANSI C Language, which is in my opinion a god father of almost all modern languages.
 
-**Then there were in sequence:**  
-Linux bash scripting, C++, HTML, CSS, PHP, MySQL, PostgreSQL align with PL/pgSQL, Assembler, Javascript, Turbo Pascal, UML, J2SE, J2EE, Spring, Hibernate, Junit, Typescript, MongoDB, Redis, Angular and Play Framework, Python, Visual Basic, UiPath, AA, Celonis...
+**Then there were roughly in sequence:**  
+Linux bash scripting, C++, HTML, CSS, PHP, MySQL, PostgreSQL align with PL/pgSQL, Assembler, Javascript, Turbo Pascal, UML, J2SE, J2EE, Spring, Hibernate, HQL, Junit, Typescript, MongoDB, Redis, Angular and Play Framework, SAP, Visual Basic, Python, OLEDB engine, UiPath, AA, Celonis, PQL...
 
 **Operating Systems:** 
 mainly Windows 10, Ubuntu and Alpine core kernels under Vagrant with VirtualBox provider, also some experience with Docker and Rabbit
@@ -20,13 +20,18 @@ mainly Windows 10, Ubuntu and Alpine core kernels under Vagrant with VirtualBox 
 
 **Beloved Editors:** Notepad++ (Windows), Geany (Linux)
 
+**Education:** Bachelor Degree in Applied Computer Science  
+
+**Certifications:**  
+ - Automation Anywhere Certified Advanced RPA Professional  
+ - Celonis Certified Implementation Professional 2021/2022
+
 To be continued....
 
 How to reach me:
 Please feel free to contact me at cyprian.klimkowski@gmail.com.
 
-> Knowing is not enough, we must apply. Willing is not enough, we must do.  
-> --- Mr Bruce Lee ---  
+> Knowing is not enough, we must apply. Willing is not enough, we must do. --- Mr Bruce Lee ---  
 
 > Technology just keeps racing forward - you can't change it.
 
